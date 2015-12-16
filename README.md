@@ -1,3 +1,3 @@
-# google-java-style-guide
-google java style guide 번역
+# google-style-guide
+google style guide 번역
 
